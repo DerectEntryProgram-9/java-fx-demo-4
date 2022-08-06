@@ -1,7 +1,7 @@
 
 # JavaFX moving between stages
 
-A simple application to practice Java FX moving between stages (Next view, via New stage, Modal window)
+A simple application to practice Java FX moving between stages <br>(Next view, via New stage, Modal window)
 
 ## Version
 0.1.0
